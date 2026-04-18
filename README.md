@@ -4,6 +4,8 @@ Voice Survey AI is a cutting-edge, voice-first platform designed to transform tr
 
 ---
 
+
+
 ## 🏗️ System Architecture
 
 ```mermaid
@@ -69,4 +71,5 @@ npm install && npm run dev
 ## 💻 Tech Stack
 - **Frontend**: React, Vite, Framer Motion.
 - **Backend**: Node.js, Express, WebSockets.
-- **Services**: Twilio, Deepgram.
+- **Services**: Twilio, Deepgram and GPT api
+- 
