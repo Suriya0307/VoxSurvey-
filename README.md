@@ -6,6 +6,9 @@ Voice Survey AI is a cutting-edge, voice-first platform designed to transform tr
 
 
 
+
+
+
 ## 🏗️ System Architecture
 
 ```mermaid
@@ -43,6 +46,9 @@ graph TD
 - **Interactive Telephony**: Full integration with Twilio Voice.
 - **Modern Dashboard**: React 18 + Vite + Glassmorphism UI.
 - **Hybrid Interaction**: Browser-based voice and traditional phone calls.
+
+
+
 
 ---
 
